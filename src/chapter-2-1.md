@@ -1,5 +1,4 @@
-Chapter 1: Understanding AI for Social Good: Definition of AI for Social Good
-=============================================================================
+# Definition of AI for Social Good
 
 AI technologies have the potential to address many of the world's most pressing social issues, from healthcare and education to climate change and poverty. In this chapter, we will define what AI for social good means and discuss its importance in addressing global challenges.
 

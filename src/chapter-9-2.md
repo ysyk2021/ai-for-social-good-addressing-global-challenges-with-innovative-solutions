@@ -1,5 +1,4 @@
-Chapter 8: Measuring AI Impact on Social Good: Identifying Areas for Improvement and Refinement
-===============================================================================================
+# Identifying Areas for Improvement and Refinement
 
 As AI technologies continue to be used for social good initiatives, it is important to measure their impact and identify areas for improvement and refinement. In this chapter, we will discuss the importance of measuring AI impact on social good and provide strategies for doing so.
 

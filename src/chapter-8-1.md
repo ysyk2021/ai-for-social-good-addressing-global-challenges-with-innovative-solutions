@@ -1,5 +1,4 @@
-Chapter 7: Using AI for Education Access and Equity: Overview of AI applications for education access and equity
-================================================================================================================
+# Overview of AI applications for education access and equity
 
 AI-powered tools have the potential to revolutionize education by enhancing access and equity. In this chapter, we will provide an overview of AI applications for education access and equity.
 

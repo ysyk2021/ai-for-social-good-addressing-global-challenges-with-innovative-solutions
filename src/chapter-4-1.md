@@ -1,5 +1,4 @@
-Chapter 3: Choosing the Right AI Tools and Technologies for Social Good: Overview of AI tools and technologies for social good
-==============================================================================================================================
+# Overview of AI tools and technologies for social good
 
 Choosing the right AI tools and technologies is critical to achieving social good outcomes. In this chapter, we will provide an overview of AI tools and technologies for social good.
 

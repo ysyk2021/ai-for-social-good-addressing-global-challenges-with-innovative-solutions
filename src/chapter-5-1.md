@@ -1,5 +1,4 @@
-Chapter 4: Using AI for Sustainable Agriculture and Food Security: Overview of AI applications for sustainable agriculture and food security
-============================================================================================================================================
+# Overview of AI applications for sustainable agriculture and food security
 
 AI-powered tools have the potential to revolutionize sustainable agriculture and address food security challenges. In this chapter, we will provide an overview of AI applications for sustainable agriculture and food security.
 

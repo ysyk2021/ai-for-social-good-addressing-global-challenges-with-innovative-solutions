@@ -1,5 +1,4 @@
-Chapter 3: Choosing the Right AI Tools and Technologies for Social Good: Case studies of successful AI implementations for social good
-======================================================================================================================================
+# Case studies of successful AI implementations for social good
 
 Choosing the right AI tools and technologies is critical to achieving social good outcomes. In this chapter, we will explore case studies of successful AI implementations for social good, highlighting key factors that contributed to their success.
 

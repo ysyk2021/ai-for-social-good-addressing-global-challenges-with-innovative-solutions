@@ -2,7 +2,6 @@
 
 - [Introduction](README.md)
   - [The need for AI solutions for global challenges](chapter-1-1.md)
-  - [Overview of the book's content](chapter-1-2.md)
 - [Chapter 1: Understanding AI for Social Good](chapter-2.md)
   - [Definition of AI for social good](chapter-2-1.md)
   - [Types of global challenges that can be addressed with AI](chapter-2-2.md)

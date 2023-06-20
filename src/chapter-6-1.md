@@ -1,5 +1,4 @@
-Chapter 5: Using AI for Improved Healthcare Access and Delivery: Overview of AI Applications for Healthcare Access and Delivery
-===============================================================================================================================
+# Overview of AI Applications for Healthcare Access and Delivery
 
 Access to quality healthcare is a global challenge, with many people facing barriers such as geographic location, cost, and lack of medical resources. AI technologies offer the potential to improve healthcare access and delivery by providing insights and solutions that can help diagnose diseases, plan treatments, and monitor patients.
 

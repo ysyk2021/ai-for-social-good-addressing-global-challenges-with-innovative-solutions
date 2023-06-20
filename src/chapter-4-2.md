@@ -1,5 +1,4 @@
-Chapter 3: Choosing the Right AI Tools and Technologies for Social Good: Key factors to consider when choosing AI tools
-=======================================================================================================================
+# Key factors to consider when choosing AI tools
 
 Choosing the right AI tools and technologies is critical to achieving social good outcomes. In this chapter, we will explore key factors to consider when choosing AI tools for social good.
 

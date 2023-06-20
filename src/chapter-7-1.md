@@ -1,5 +1,4 @@
-Chapter 6: Using AI for Climate Change Mitigation and Adaptation: Overview of AI Applications for Climate Change Mitigation and Adaptation
-==========================================================================================================================================
+# Overview of AI Applications for Climate Change Mitigation and Adaptation
 
 AI technologies offer tremendous potential for mitigating and adapting to the impacts of climate change. In this chapter, we will provide an overview of AI applications for climate change mitigation and adaptation.
 

@@ -1,5 +1,4 @@
-Chapter 6: Using AI for Climate Change Mitigation and Adaptation: Case Studies of Successful AI Implementations in Climate Change Mitigation and Adaptation
-===========================================================================================================================================================
+# Case Studies of Successful AI Implementations in Climate Change Mitigation and Adaptation
 
 AI technologies offer tremendous potential for mitigating and adapting to the impacts of climate change. In this chapter, we will discuss some case studies of successful AI implementations in climate change mitigation and adaptation.
 
