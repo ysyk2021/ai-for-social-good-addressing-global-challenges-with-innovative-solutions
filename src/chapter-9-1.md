@@ -1,4 +1,4 @@
-# Assessing the Effectiveness of AI for Social Good Initiatives
+
 
 Assessing the effectiveness of AI for social good initiatives is essential for ensuring that these initiatives are achieving their intended goals and aligning with social good priorities. In this chapter, we will discuss some of the best practices for assessing the effectiveness of AI for social good.
 

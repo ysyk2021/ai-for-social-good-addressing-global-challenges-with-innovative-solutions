@@ -1,4 +1,4 @@
-# Case Studies of Successful AI Implementations in Education Access and Equity
+
 
 AI technologies offer tremendous potential for improving access to education and promoting equity in education. In this chapter, we will discuss some case studies of successful AI implementations in education access and equity.
 

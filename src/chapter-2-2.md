@@ -1,4 +1,4 @@
-# Types of Global Challenges That Can be Addressed with AI
+
 
 AI technologies have the potential to address many of the world's most pressing social issues, from healthcare and education to climate change and poverty. In this chapter, we will discuss some specific types of global challenges that can be addressed with AI.
 

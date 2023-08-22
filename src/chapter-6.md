@@ -1,5 +1,4 @@
-Chapter 5: Using AI for Improved Healthcare Access and Delivery
-===============================================================
+
 
 The field of healthcare presents a unique opportunity for AI to address global challenges and improve access and delivery of care. In this chapter, we will explore the various applications of AI in healthcare, best practices for implementation, and case studies of successful AI implementations.
 

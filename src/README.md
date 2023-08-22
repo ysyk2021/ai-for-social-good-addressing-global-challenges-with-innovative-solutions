@@ -1,4 +1,4 @@
-# Introduction
+
 
 Artificial Intelligence (AI) is transforming the way we address global challenges and create positive social impact. From personalized healthcare and education to disaster relief and humanitarian aid, AI has the potential to improve the lives of individuals and communities around the world.
 
