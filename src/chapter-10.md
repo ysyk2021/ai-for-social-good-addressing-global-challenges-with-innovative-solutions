@@ -1,5 +1,4 @@
 
-
 As AI is increasingly used for social good initiatives, it is important to prioritize ethical considerations and develop governance frameworks to ensure responsible AI use. In this chapter, we will discuss some of the ethical considerations, governance frameworks, and legal and regulatory considerations for AI implementation in social good.
 
 Ethical Considerations for AI Implementation in Social Good Initiatives

@@ -1,5 +1,4 @@
 
-
 AI technologies have the potential to address many of the world's most pressing social issues, from healthcare and education to climate change and poverty. In this chapter, we will provide an overview of AI for social good, its definition, types of global challenges that can be addressed with AI, and benefits of AI for creating innovative solutions to social problems.
 
 Definition of AI for Social Good

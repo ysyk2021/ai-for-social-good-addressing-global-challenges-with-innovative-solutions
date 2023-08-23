@@ -1,5 +1,4 @@
 
-
 Choosing the right AI tools and technologies is critical to achieving social good outcomes. In this chapter, we will explore case studies of successful AI implementations for social good, highlighting key factors that contributed to their success.
 
 Case Study 1: Predictive Analytics for Human Trafficking Prevention

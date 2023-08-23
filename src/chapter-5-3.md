@@ -1,5 +1,4 @@
 
-
 AI technologies offer tremendous potential for promoting sustainable agriculture and ensuring food security. In this chapter, we will discuss some case studies of successful AI implementations in sustainable agriculture and food security.
 
 Farmwave

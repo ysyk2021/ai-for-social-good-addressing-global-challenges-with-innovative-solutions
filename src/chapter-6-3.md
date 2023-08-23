@@ -1,5 +1,4 @@
 
-
 Real-world examples of AI implementations in healthcare demonstrate the potential for improved healthcare access and delivery. In this section, we will highlight several case studies of successful AI implementations in healthcare.
 
 Personalized Treatment Plans for Cancer Patients

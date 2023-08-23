@@ -1,5 +1,4 @@
 
-
 AI technologies offer tremendous potential for mitigating and adapting to the impacts of climate change. However, to ensure that AI is used effectively and responsibly, it is important to follow best practices for AI implementation. In this chapter, we will discuss some of the best practices for AI implementation in areas such as energy efficiency, emissions reduction, and disaster response.
 
 Data Quality and Bias

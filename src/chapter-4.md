@@ -1,5 +1,4 @@
 
-
 Choosing the right AI tools and technologies is critical to achieving social good outcomes. In this chapter, we will provide an overview of AI tools and technologies for social good, key factors to consider when choosing AI tools, and case studies of successful AI implementations for social good.
 
 Overview of AI Tools and Technologies for Social Good

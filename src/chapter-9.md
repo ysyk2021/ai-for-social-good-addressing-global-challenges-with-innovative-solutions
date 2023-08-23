@@ -1,5 +1,4 @@
 
-
 Measuring the impact of AI on social good initiatives is crucial for ensuring that these initiatives are effective and align with social good goals and priorities. In this chapter, we will discuss some of the best practices for measuring the impact of AI on social good.
 
 Assessing the Effectiveness of AI for Social Good Initiatives

@@ -1,5 +1,4 @@
 
-
 Data is a critical component of AI systems, and it is important to evaluate the availability and quality of data when preparing for AI implementation for social good. In this chapter, we will discuss the importance of evaluating data availability and quality and provide some best practices for doing so.
 
 The Importance of Data Availability and Quality

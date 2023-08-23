@@ -1,5 +1,4 @@
 
-
 AI technologies offer tremendous potential for mitigating and adapting to the impacts of climate change. In this chapter, we will discuss some case studies of successful AI implementations in climate change mitigation and adaptation.
 
 Climate AI

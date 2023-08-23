@@ -1,5 +1,4 @@
 
-
 Before implementing AI for social good, it is critical to assess the needs and goals of your initiative. In this chapter, we will discuss the importance of assessing the needs and goals of your social good initiative and provide some best practices for doing so.
 
 The Importance of Assessing Needs and Goals

@@ -1,5 +1,4 @@
 
-
 Implementing AI for social good can be a complex process, and it is important to properly prepare for it. In this chapter, we will discuss some key considerations when preparing for AI implementation for social good.
 
 Assessing the Needs and Goals of Your Social Good Initiative
