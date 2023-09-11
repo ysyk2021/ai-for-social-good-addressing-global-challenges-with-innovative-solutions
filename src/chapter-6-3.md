@@ -1,5 +1,4 @@
-Chapter 7: Case Studies of Successful AI Implementations in Improved Healthcare Access and Delivery
-===================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine case studies of successful Artificial Intelligence (AI) implementations that have significantly improved healthcare access and delivery. These innovative solutions showcase the transformative potential of AI in addressing global health challenges, enhancing patient care, and increasing healthcare accessibility.
 

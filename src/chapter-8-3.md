@@ -1,5 +1,4 @@
-Chapter 12: Case Studies of Successful AI Implementations in Education Access and Equity
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter examines case studies that highlight successful AI implementations in promoting education access and equity. These examples demonstrate how AI can be effectively utilized to overcome barriers, bridge gaps, and provide equal opportunities for learners worldwide. Through these case studies, we explore the transformative potential of AI in addressing educational inequalities.
 

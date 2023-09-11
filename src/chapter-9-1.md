@@ -1,5 +1,4 @@
-Chapter 8: Assessing the Effectiveness of AI for Social Good Initiatives
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter focuses on assessing the effectiveness of AI in social good initiatives. Evaluating the impact and outcomes of AI solutions is crucial to understand their effectiveness, identify areas for improvement, and ensure that they are making a positive difference in addressing global challenges. This chapter provides a framework for assessing the effectiveness of AI for social good initiatives.
 

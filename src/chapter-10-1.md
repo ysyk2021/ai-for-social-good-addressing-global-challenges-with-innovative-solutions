@@ -1,5 +1,4 @@
-Chapter 7: Ethical Considerations for AI Implementation in Social Good Initiatives
-==================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter focuses on the ethical considerations that should guide AI implementation in social good initiatives. As AI technologies continue to evolve and impact various aspects of society, it is essential to ensure that AI systems are developed and deployed in a responsible, fair, and ethical manner. This chapter explores key ethical dimensions that should be taken into account when implementing AI for social good.
 

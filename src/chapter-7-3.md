@@ -1,5 +1,4 @@
-Chapter 9: Case Studies of Successful AI Implementations in Climate Change Mitigation and Adaptation
-====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore real-world case studies that demonstrate successful AI implementations in climate change mitigation and adaptation. These examples illustrate how AI technologies are being used to address the challenges posed by climate change, reduce greenhouse gas emissions, and build resilience in the face of a changing climate. The following case studies highlight diverse applications of AI in combating climate change and promoting sustainability.
 

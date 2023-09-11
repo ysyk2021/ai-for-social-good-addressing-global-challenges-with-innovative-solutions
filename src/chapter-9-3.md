@@ -1,5 +1,4 @@
-Chapter 10: Continuously Adapting and Improving Your AI Approach for Social Good
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter focuses on the importance of continuously adapting and improving your AI approach for social good initiatives. The field of AI is constantly evolving, and to effectively address global challenges, it is crucial to embrace a mindset of continuous learning, improvement, and adaptation. This chapter provides strategies and insights for continuously enhancing your AI approach for social good.
 

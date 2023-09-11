@@ -1,5 +1,4 @@
-Chapter 8: Overview of AI Applications for Climate Change Mitigation and Adaptation
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of the various applications of AI in addressing climate change mitigation and adaptation. AI technologies have emerged as powerful tools for understanding and tackling the complex challenges posed by climate change. From data analysis and modeling to optimization and decision-making, AI offers innovative solutions for reducing greenhouse gas emissions, promoting sustainability, and building resilience. The following sections highlight key areas where AI is making a significant impact in the fight against climate change.
 

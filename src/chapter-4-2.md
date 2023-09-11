@@ -1,5 +1,4 @@
-Chapter 8: Key Factors to Consider When Choosing AI Tools
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the key factors that should be considered when choosing AI tools for addressing global challenges and promoting social good. Selecting the right AI tools is crucial to ensure effectiveness, ethical considerations, and positive impact. The following sections outline important factors to consider during the decision-making process.
 

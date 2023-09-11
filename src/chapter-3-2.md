@@ -1,5 +1,4 @@
-Chapter 5: Identifying Potential Implementation Challenges
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter focuses on identifying potential implementation challenges when deploying AI for social good initiatives. While AI has tremendous potential to address global challenges, it is essential to recognize and address the obstacles that may arise during the implementation process. This chapter highlights key challenges and provides insights into how to overcome them effectively.
 

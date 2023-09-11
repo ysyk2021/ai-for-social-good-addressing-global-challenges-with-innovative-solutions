@@ -1,5 +1,4 @@
-Chapter 5: Benefits of AI for Creating Innovative Solutions to Social Problems
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the numerous benefits that AI brings to creating innovative solutions for addressing social problems. AI technologies provide unique capabilities that empower individuals, organizations, and communities to tackle global challenges in a more efficient, effective, and impactful manner. The following sections highlight some key advantages of using AI for social good.
 

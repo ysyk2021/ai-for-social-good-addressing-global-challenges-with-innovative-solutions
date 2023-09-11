@@ -1,5 +1,4 @@
-Chapter 2: Assessing the Needs and Goals of Your Social Good Initiative
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter focuses on the process of assessing the needs and goals of your social good initiative when implementing AI solutions. Understanding the specific challenges and objectives of your initiative is crucial for developing effective AI strategies that can address global problems. This chapter provides a framework for assessing needs and setting goals to maximize the impact of AI for social good.
 

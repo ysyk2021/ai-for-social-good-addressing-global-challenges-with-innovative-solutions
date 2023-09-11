@@ -1,5 +1,4 @@
-Chapter 11: Best Practices for AI Implementation in Areas such as Personalized Learning, Skill Assessment, and Teacher Support
-==============================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter focuses on best practices for the implementation of AI in areas such as personalized learning, skill assessment, and teacher support. These applications of AI have the potential to significantly enhance education systems and improve learning outcomes. This chapter explores key considerations and strategies for successful AI implementation in these domains.
 

@@ -1,5 +1,4 @@
-Chapter 6: Legal and Regulatory Considerations for AI Implementation in Social Good
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter focuses on the legal and regulatory considerations that need to be taken into account when implementing AI solutions for social good. As AI technologies continue to advance, it is crucial to navigate the legal landscape and ensure compliance with regulations to protect individuals' rights and promote responsible use of AI. This chapter provides an overview of key legal and regulatory aspects that should be considered during AI implementation in social good initiatives.
 

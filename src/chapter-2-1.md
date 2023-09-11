@@ -1,5 +1,4 @@
-Chapter 1: Definition of AI for Social Good
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the definition and scope of AI for social good. Understanding what constitutes AI for social good is crucial for aligning efforts, setting goals, and implementing innovative solutions that address global challenges. The following sections provide an overview of the key aspects and characteristics of AI for social good.
 

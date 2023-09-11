@@ -1,5 +1,4 @@
-Chapter 3: Overview of AI Applications for Healthcare Access and Delivery
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of the diverse applications of Artificial Intelligence (AI) in healthcare access and delivery. AI has the potential to revolutionize healthcare by addressing global challenges, improving patient care, and enhancing healthcare accessibility. The following sections highlight key areas where AI is making a significant impact.
 

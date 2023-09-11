@@ -1,5 +1,4 @@
-Chapter 7: Overview of AI Applications for Sustainable Agriculture and Food Security
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of the various applications of AI in promoting sustainable agriculture and ensuring food security. AI technologies have emerged as powerful tools for addressing the challenges faced by the agricultural sector, including increasing productivity, reducing resource waste, improving crop quality, and enhancing resilience to climate change. The following sections highlight key areas where AI is making a significant impact in achieving sustainable agriculture and food security.
 

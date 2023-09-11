@@ -1,5 +1,4 @@
-Chapter 3: Evaluating Data Availability and Quality
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter focuses on the evaluation of data availability and quality, which is crucial for successful AI implementations. To effectively leverage AI technologies, it is essential to assess the availability, accessibility, and reliability of data. This chapter outlines key considerations and methodologies for evaluating data availability and quality in various domains.
 

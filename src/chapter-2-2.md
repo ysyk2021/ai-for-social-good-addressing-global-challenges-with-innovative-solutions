@@ -1,5 +1,4 @@
-Chapter 3: Types of Global Challenges that Can be Addressed with AI
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the diverse types of global challenges that can be effectively addressed using AI technologies. AI has the potential to tackle a wide range of societal issues by providing innovative solutions, data-driven insights, and automation capabilities. The following sections highlight some key domains and examples where AI can make a significant impact.
 
